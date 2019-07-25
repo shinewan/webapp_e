@@ -1,4 +1,4 @@
-# webapp_e
+# git_webapp_e
 
 ## Project setup
 ```
